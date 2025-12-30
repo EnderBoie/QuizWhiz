@@ -14,5 +14,5 @@
 
 <h3>Description: QuizWhiz is an Quiz making app with AI features.</h3>
 
-<h4>To download, and run localy, open the Releases:</h4> <a href="https://github.com/EnderBoie/QuizWhiz/releases">Releases</a>
+<h4>To download, and run locally, open the Releases:</h4> <a href="https://github.com/EnderBoie/QuizWhiz/releases">Releases</a>
 </div>
