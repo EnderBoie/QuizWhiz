@@ -6,6 +6,8 @@ Powered by Google AI Studio.
 
 
 View it online: https://ai.studio/apps/drive/1GGjw4BLR1Z4ih_GQ8wsZ_6SxCF0WWOVo
+
+
 Description: QuizWhiz is an Quiz making app with AI features.
 ## Run Locally
 
